@@ -1,0 +1,7 @@
+es:
+  cluster: http://localhost:9200
+  port: 9200
+  name: indexer-monitoring
+  indexName: weibo-2020.08.24
+  size: 5000
+  query: 国安法,中国
